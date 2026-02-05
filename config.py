@@ -7,12 +7,7 @@ ROOT_DIR = Path(__file__).parent
 AUTH_DIR = ROOT_DIR / "auth"
 OUTPUT_DIR = ROOT_DIR / "output"
 STATE_FILE = AUTH_DIR / "twitter_state.json"
-
-# --- Search ---
-# Each query is run via Twitter's People search tab.
-SEARCH_QUERIES: list[str] = [
-    "IEEE",
-]
+HANDLES_FILE = ROOT_DIR / "handles.txt"
 
 # --- Browser ---
 HEADLESS = True
@@ -24,10 +19,7 @@ USER_AGENT = (
 )
 VIEWPORT = {"width": 1280, "height": 900}
 
-# --- Scroll / rate-limit ---
-SCROLL_PAUSE_SEC = 2.0  # pause between scrolls to let DOM render
-MAX_SCROLLS = 50  # safety cap per search query
-MAX_CONSECUTIVE_EMPTY = 5  # stop scrolling after N scrolls with no new results
+# --- Rate-limit ---
 PROFILE_VISIT_DELAY_SEC = 2.0  # pause between individual profile page visits
 
 # --- Output ---
