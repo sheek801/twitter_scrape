@@ -143,7 +143,7 @@ async def _search_phase(context: BrowserContext, state: ScrapeState) -> None:
 
         search_url = (
             f"https://x.com/search?q={quote_plus(query)}"
-            f"&src=typed_query&f=people"
+            f"&src=typed_query&f=user"
         )
         print(f"\n--- Phase 1: Searching '{query}' ---")
         print(f"URL: {search_url}")
