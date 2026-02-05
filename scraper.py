@@ -21,7 +21,6 @@ import re
 from dataclasses import dataclass, field
 
 from playwright.async_api import BrowserContext, Page, Response
-from playwright_stealth import stealth_async
 
 import config
 from utils import parse_follower_text
@@ -155,7 +154,6 @@ async def scrape_query(
     through results, extracting profiles as we go."""
 
     page = await context.new_page()
-    await stealth_async(page)
 
     # --- Intercept API responses for structured data ---
     api_new_count = 0

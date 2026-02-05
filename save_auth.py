@@ -13,7 +13,7 @@ import asyncio
 from pathlib import Path
 
 from playwright.async_api import async_playwright
-from playwright_stealth import stealth_async
+from playwright_stealth import Stealth
 
 AUTH_DIR = Path(__file__).parent / "auth"
 STATE_FILE = AUTH_DIR / "twitter_state.json"
@@ -35,8 +35,8 @@ async def main() -> None:
                 "Chrome/120.0.0.0 Safari/537.36"
             ),
         )
+        await Stealth().apply_stealth_async(context)
         page = await context.new_page()
-        await stealth_async(page)
 
         await page.goto("https://x.com/i/flow/login", wait_until="networkidle")
 

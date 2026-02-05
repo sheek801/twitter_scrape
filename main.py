@@ -19,7 +19,7 @@ import asyncio
 import sys
 
 from playwright.async_api import async_playwright
-from playwright_stealth import stealth_async
+from playwright_stealth import Stealth
 
 import config
 from scraper import run_scraper
@@ -82,10 +82,8 @@ async def main() -> None:
             user_agent=config.USER_AGENT,
         )
 
-        # Apply stealth to the default page so new pages inherit settings
-        default_page = await context.new_page()
-        await stealth_async(default_page)
-        await default_page.close()
+        # Apply stealth at context level — all pages inherit evasions
+        await Stealth().apply_stealth_async(context)
 
         profiles = await run_scraper(context)
 
