@@ -28,6 +28,7 @@ VIEWPORT = {"width": 1280, "height": 900}
 SCROLL_PAUSE_SEC = 2.0  # pause between scrolls to let DOM render
 MAX_SCROLLS = 50  # safety cap per search query
 MAX_CONSECUTIVE_EMPTY = 5  # stop scrolling after N scrolls with no new results
+PROFILE_VISIT_DELAY_SEC = 2.0  # pause between individual profile page visits
 
 # --- Output ---
 CSV_FILE = OUTPUT_DIR / "ieee_profiles.csv"
