@@ -1,1 +1,1420 @@
 handle,display_name,followers
+@ieeecloud,IEEE Cloud Computing,6050
+@IEEEorg,IEEE,340200
+@ieee_ras_crv,IEEE RAS TC for Computer & Robot Vision,764
+@IEEEXplore,IEEE Xplore,220400
+@ieee_ras_icra,IEEE ICRA,12800
+@IEEESSP,IEEE S&P,9078
+@JAutoSinica,IEEE/CAA Journal of Automatica Sinica,2710
+@ieee_es,IEEE,47300
+@IEEESpectrum,IEEE Spectrum,151700
+@IEEEHOTI,IEEE Hot Interconnects,267
+@IeeeTro,IEEE Transactions on Robotics (T-RO),1680
+@ieeeras,IEEE RAS,11700
+@ieeevis,IEEE VIS,9323
+@IEEEIoT,IEEE Internet of Things Initiative,27800
+@IEEEBrain,IEEE Brain,9172
+@ComputerSociety,IEEE Computer Society,66600
+@ieeesmartgrid,IEEE Smart Grid,22100
+@ieeepesgm,IEEE Power & Energy Society General Meeting,501
+@IEEEembs,IEEE Engineering Medicine and Biology Society,18200
+@ieee_pes,IEEE Power & Energy Society,21800
+@IEEEEUROSP,IEEE European Symposium on Security and Privacy,4123
+@IEEEKFUPM,IEEE KFUPM Student Branch,2165
+@ieeeICASSP,IEEE ICASSP,4757
+@ieeecis,IEEE Computational Intelligence Society,2206
+@IEEEFutureNtwks,IEEE Future Networks,4867
+@IEEESA,IEEE Standards Association | IEEE SA,52600
+@IEEEComputerSoc,IEEEComputerSocSCVchapter,11800
+@ComSoc,IEEE ComSoc,37200
+@CSSIEEE,IEEE Control Systems Society,3498
+@IeeeTcmf,ieee-tcmf,208
+@IEEEsps,IEEE Signal Processing Society,4618
+@ieee_iedm,ieee iedm,5011
+@IEEESpectrum,IEEE Spectrum,151700
+@IEEEHOTI,IEEE Hot Interconnects,267
+@IeeeTro,IEEE Transactions on Robotics (T-RO),1680
+@ieeeras,IEEE RAS,11700
+@ieeevis,IEEE VIS,9323
+@IEEEIoT,IEEE Internet of Things Initiative,27800
+@IEEEBrain,IEEE Brain,9172
+@ComputerSociety,IEEE Computer Society,66600
+@ieeesmartgrid,IEEE Smart Grid,22100
+@ieeepesgm,IEEE Power & Energy Society General Meeting,501
+@IEEEembs,IEEE Engineering Medicine and Biology Society,18200
+@ieee_pes,IEEE Power & Energy Society,21800
+@IEEEEUROSP,IEEE European Symposium on Security and Privacy,4123
+@IEEEKFUPM,IEEE KFUPM Student Branch,2165
+@ieeeICASSP,IEEE ICASSP,4757
+@ieeecis,IEEE Computational Intelligence Society,2206
+@IEEEFutureNtwks,IEEE Future Networks,4867
+@IEEESA,IEEE Standards Association | IEEE SA,52600
+@IEEEComputerSoc,IEEEComputerSocSCVchapter,11800
+@ComSoc,,
+@CSSIEEE,,
+@IeeeTcmf,,
+@IEEEsps,,
+@ieee_iedm,,
+@IEEELearn,,
+@IEEEPhotonics,,
+@IEEEeducation,,
+@earthzine,,
+@IEEE_OES,,
+@ieeesoftware,,
+@IEEEDay,,
+@IEEEFutureDir,,
+@BlockchainIEEE,,
+@IEEEAccess,,
+@IEEE,,
+@IEEESaudiArabia,,
+@ieee_cog,,
+@IEEE_UFFC_Soc,,
+@ieee_r8sac,,
+@IEEETxnOnGames,,
+@yannakakis,,
+@WCET,,
+@ieeescam,,
+@IEEEPELS,,
+@IEEEICSME,,
+@ieeeIAS,,
+@IEEETandD,,
+@IEEESSIT,,
+@IEEEVR,,
+@itssieee,,
+@IEEESmartCities,,
+@IEEEUSA,,
+@TryEngineering,,
+@IEEELifeScience,,
+@ieeeiros,,
+@ieee_ras_sac,,
+@SSCSociety,IEEE SSC Society,2696
+@ieee_tvcg,IEEE TVCG,703
+@ieeeintelligent,IEEE Intelligent Systems,842
+@Guansong_Aus,Guansong Pang,264
+@IEEESaudiArabia,IEEE Saudi Arabia Section,4546
+@ieee_cog,IEEE Conference on Games,1080
+@IEEE_UFFC_Soc,IEEE UFFC Society,820
+@ieee_r8sac,IEEE R8 SAC,2093
+@IEEETxnOnGames,IEEE Transactions on Games,1250
+@yannakakis,Georgios N. Yannakakis,3217
+@WCET,IEEE WCET,3963
+@ieeescam,IEEE SCAM Conference,2257
+@IEEEPELS,IEEE PELS,3474
+@IEEEICSME,IEEE ICSME 2026,2521
+@ieeeIAS,IEEE IAS,3187
+@IEEETandD,IEEE PES T&D,2159
+@IEEESSIT,IEEE SSIT,1431
+@IEEEVR,IEEE Virtual Reality,4553
+@itssieee,IEEE Intelligent Transportation Systems Society,1412
+@IEEESmartCities,IEEE Smart Cities,15900
+@IEEEUSA,IEEE-USA,21800
+@TryEngineering,IEEE TryEngineering,3050
+@IEEELifeScience,IEEELifeSciences,1788
+@ieeeiros,ieeeIROS,1175
+@ieee_ras_sac,IEEE RAS Student Activities Committee,87
+@SSCSociety,IEEE SSC Society,2696
+@ieee_tvcg,IEEE TVCG,703
+@ieeeintelligent,IEEE Intelligent Systems,842
+@Guansong_Aus,Guansong Pang,264
+@ieeecybsi,IEEE Cybersecurity,3334
+@SANERconf,IEEE SANER,2061
+@ieeemicro,IEEE Micro,891
+@IEEE_DEIS,IEEE DEIS,1776
+@IEEEPress,IEEE Press,13500
+@ieee_ies,IEEE Industrial Electronics Society (IES),1553
+@IEEEDigitalReal,IEEE Digital Reality,1287
+@IEEE_IMS,IEEE IMS,1583
+@IEEE_pmu,IEEE PMU Student Branch,713
+@pmuofficial,جامعة الأمير محمد بن فهد,39000
+@GRSS_President,IEEE GRSS President,898
+@IEEE_GRSS,IEEE Geoscience and Remote Sensing Society,7647
+@MarikoBurgin,~ Mariko Burgin ~,926
+@SystemsCouncil,IEEE Systems Council,1205
+@IEEETEMS,IEEE TEMS,914
+@smcit_conf,IEEE SMC-IT/SCC 2025 Conference,446
+@IEEEWashington,IEEE Washington,938
+@IEEEorg,IEEE,340200
+@IEEEQuantumWeek,IEEE Quantum Week,2856
+@ieeehyderabad,IEEE Hyderabad [IN],593
+@IeeeIsbi,IEEE International Symposium on Biomedical Imaging,965
+@TMS_IEEE,TMS-EE,387
+@IEEER10,IEEE R10,1352
+@ieee_re,,
+@ieeer8today,,
+@IEEEMTT,,
+@IEEECCNC,,
+@IEEE_EduSoc,,
+@IEEEspm,,
+@ieee_itsoc,,
+@ieee_industry,IEEE Industry Engagement Committee,896
+@IEEEFoundation,,
+@ieeer8,IEEE Region 8,908
+@IEEEDSAA,,
+@IEEEQuantum,,
+@ieeecesoc,,
+@IEEELifeScience,,
+@IEEEQuantumWeek,IEEE Quantum Week,2856
+@IEEEWashington,IEEE Washington,938
+@IEEEorg,IEEE,340200
+@ieeehyderabad,,
+@IeeeIsbi,,
+@TMS_IEEE,,
+@ieee_re,RE 2026,1278
+@IEEER10,,
+@ieeer8today,,
+@IEEEMTT,,
+@IEEECCNC,,
+@IEEE_EduSoc,,
+@ieee_itsoc,IEEE Information Theory Society,1852
+@IEEEspm,IEEE SPM,770
+@ieee_industry,,
+@ieeer8,,
+@IEEEFoundation,IEEE Foundation,7696
+@IEEEDSAA,,
+@IEEEQuantum,,
+@ieeecesoc,,
+@IEEEWIE,,
+@IEEEAeroConf,,
+@IEEEAwards,,
+@ieeeawards,IEEE Awards,
+@IEEE_UQU,,
+@IEEE_ICDL,IEEE ICDL,464
+@IEEECluster,,
+@IEEEICC,,
+@CSFSymposium,,
+@compsac,,
+@cptamma,,
+@ieee_uk_ireland,IEEE UK and Ireland Section,1145
+@Region8YP,IEEE R8 YP,674
+@ieee_pes_pscc,IEEE-PES PSCC,437
+@ieee_pes,IEEE Power & Energy Society,21800
+@ieeeICME,ICME 2023,491
+@igarss,IEEE IGARSS,1744
+@ieeeENT,IEEE Entrepreneurship & IEEE Startup,2201
+@IEEEorg,IEEE,340200
+@IEEE_UAESection,IEEE - UAE Section,327
+@IEEE_VTS,IEEE VTS,856
+@ITSPodcast,IEEE ITSS ITSP,1342
+@IEEECRFID,IEEE Council on RFID,878
+@IEEE_AIXVR,IEEE AIxVR,1070
+@ieeexp,IEEE Membership,3235
+@IEEEorg,IEEE,340200
+@IEEE_EtaKappaNu,IEEE Eta Kappa Nu,1408
+@IEEE_AESS,IEEE AESS,1350
+@IEEECDC2025,IEEE CDC 2025,638
+@IEEEPerCom,IEEEPerCom,677
+@HumanoidsConf,IEEE-RAS Int. Conf. on Humanoid Robots (HUMANOIDS),1244
+@ieeetrsbea,IEEE TRSB Educational Activities,347
+@ieee_slt,SLT 2024,489
+@ieee_ras_mrs,IEEE RAS TC on Multi-Robot Systems,451
+@IEEEFG2021,IEEE FG2021,245
+@Humanoids2014,IEEE Humanoids 2014,1252
+@SensorsCouncil,IEEE Sensors Council,2355
+@ieeesecdev,IEEE Secure Development,1597
+@ieeextreme,IEEEXtreme,3519
+@famufsuieee,IEEE Student Branch,232
+@FAMUFSUCOE,FAMU-FSU Engineering,2804
+@IEEEPVSC,54th IEEE PVSC,1166
+@IEEERebootComp,IEEE Rebooting Comp,1773
+@IEEE_Kenya,IEEE Kenya Section,585
+@ieeeuob,IEEE UOB,247
+@ieeeuob,IEEE UOB,247
+@ieeevanc,IEEE Vancouver,372
+@visapnet,IEEE VIS Arts Program,823
+@IEEEBTSociety,IEEE BT Society,946
+@ieeevgtc,IEEE VGTC,824
+@ieeetrsbea,IEEE TRSB Educational Activities,347
+@ieee_slt,SLT 2024,489
+@ieee_ras_mrs,IEEE RAS TC on Multi-Robot Systems,451
+@IEEEFG2021,IEEE FG2021,245
+@Humanoids2014,IEEE Humanoids 2014,1252
+@SensorsCouncil,IEEE Sensors Council,2355
+@ieeesecdev,IEEE Secure Development,1597
+@ieeextreme,IEEEXtreme,3519
+@famufsuieee,IEEE Student Branch,232
+@FAMUFSUCOE,FAMU-FSU Engineering,2804
+@IEEEPVSC,54th IEEE PVSC,1166
+@IEEERebootComp,IEEE Rebooting Comp,1773
+@IEEE_Kenya,IEEE Kenya Section,585
+@ieeeuob,,
+@ieeeuob,,
+@ieeevanc,,
+@visapnet,,
+@IEEEBTSociety,,
+@ieeevgtc,,
+@IEEECAL,,
+@ieeeICIP,,
+@IEEE_TCI,,
+@IEEE_TMI,,
+@IEEEMagSoc,,
+@ProceedingsIEEE,,
+@ieeetrsb,,
+@IEEEPresident,,
+@IEEEorg,,
+@GrssYp,,
+@VLSI_2026,,
+@IEEEEDS,,
+@ieeecassociety,,
+@IEEESENSORS,,
+@SensorsCouncil,,
+@ssinha_ieee,,
+@ieeerisingstars,,
+@IEEE_AASP,,
+@IEEE_OES,,
+@IEEEimaging,,
+@EPICSinIEEE,,
+@IEEESmrtVillage,,
+@IEEESBKUET,,
+@icassp2019,,
+@_kkyIeee,,
+@IEEERoboSoft,,
+@StudentRas,,
+@PES_SaudiArabia,,
+@IEEE_PNU,,
+@IEEETBioCAS,IEEE Transactions on Biomedical Circuits & Systems,674
+@ieeecassociety,IEEE CAS Society,2132
+@ieeeembs,IEEE Engineering Medicine and Biology Society,
+@ieeepesscholars,IEEE PES Scholar+,932
+@IEEECEDA,IEEE Council on Electronic Design,596
+@IEEEIRPS,IEEE IRPS,282
+@IEEEBiometrics,IEEE Biometrics,398
+@ieee_tamu,IEEE TAMU,174
+@nigelhlovell,Prof Nigel Lovell - see u @ IEEE EMBC 2023 Sydney,373
+@ieee_socc,IEEE SOC Conference,355
+@PowerEnergyNet,"Prof Xiao-Ping Zhang @unibirmingham, IEEE Fellow",583
+@IEEEChicago,IEEE Chicago,276
+@NUIEEE,Northeastern IEEE,316
+@ieeeypctx,IEEE YP Central TX,347
+@IEEETEC,IEEE TEC,2472
+@ieeetse,IEEE Transactions on Software Engineering,679
+@IEEE_WASPAA,IEEE WASPAA 2025,260
+@ieee802,IEEE802,333
+@IEEE_TLT,IEEE Transactions on Learning Technologies,445
+@ieee_sas,IEEE SAS Initiative,291
+@ieeeiasksa,IEEE IAS KSA,172
+@ieeeiv2019,IEEE IV 2019,198
+@ieeetap,IEEE Transactions on Antennas and Propagation,1081
+@IEEEBiometrics,IEEE Biometrics,398
+@ieee_tamu,IEEE TAMU,174
+@nigelhlovell,Prof Nigel Lovell - see u @ IEEE EMBC 2023 Sydney,373
+@ieee_socc,IEEE SOC Conference,355
+@PowerEnergyNet,"Prof Xiao-Ping Zhang @unibirmingham, IEEE Fellow",583
+@IEEEChicago,IEEE Chicago,276
+@NUIEEE,Northeastern IEEE,316
+@ieeeypctx,IEEE YP Central TX,347
+@IEEETEC,IEEE TEC,2472
+@ieeetse,IEEE Transactions on Software Engineering,679
+@IEEE_WASPAA,IEEE WASPAA 2025,260
+@ieee802,IEEE802,333
+@IEEE_TLT,IEEE Transactions on Learning Technologies,445
+@ieee_sas,IEEE SAS Initiative,291
+@ieeeiasksa,IEEE IAS KSA,172
+@ieeeiv2019,IEEE IV 2019,198
+@ieeetap,IEEE Transactions on Antennas and Propagation,1081
+@IEEEKerala,IEEE Kerala Section,651
+@bihgieee_isto,Blockchain in Healthcare Global IEEE ISTO,533
+@IEEEFG2019,IEEE FG2019,97
+@ComputerSociety,IEEE Computer Society,66600
+@IEEEBiometrics,IEEE Biometrics,398
+@DsnIeee,IEEE/IFIP DSN Conference 2026,323
+@IEEE_ICALT,ICALT Conference,413
+@UC_IEEE,IEEE@UofCincy,233
+@IEEEorg,IEEE,340200
+@makeuc_io,MakeUC,123
+@WVUIEEE,WVU IEEE,219
+@IEEEDigiPrivacy,,
+@IEEE_EMCS,,
+@ElectricalSafeT,,
+@IEEEWIE_UK,,
+@IEEE_GRSS,,
+@sarahnicoIeee,,
+@ICCAD,,
+@tcuarch,,
+@IEEEJETCAS,,
+@ieeesltc,,
+@ieeesm,,
+@es_week,,
+@IEEEW_PMU,,
+@BostonENET,,
+@BostonENET,,
+@IEEEorg,,
+@eMinutePITCH,,
+@aston_chapter,,
+@IEEEFLEPS,,
+@IEEEPortugal,,
+@ieeeYPng,,
+@ieee_reach,,
+@IEEEPCIC,,
+@ieeeconcordia,,
+@IEEE_SC,,
+@ieee_pce,,
+@IEEEComSocYP,,
+@ieeer5,,
+@helwansb,,
+@CISCompetitions,,
+@soheeIeee,,
+@Ieee5573,,
+@IEEECSKSA,,
+@r8wie,IEEE Region 8 Women in Engineering,179
+@IEEEInfra,IEEE Infrastructure Conference,225
+@IEEEKeralaYP,IEEE Kerala YP,418
+@ehpwas,IEEE eHPWAS Workshop,482
+@IEEESLSYWC,IEEE SL SYW Congress,294
+@PowerAfrica22,IEEE Power Africa Conference 2022,494
+@IEEER4,IEEE Region 4,147
+@ieeepesday,IEEE PES Day,400
+@IEEEUKCAS,IEEE UKCAS,255
+@ieeecassociety,IEEE CAS Society,2132
+@ieeer5,IEEE Region 5,499
+@helwansb,IEEE|Helwan SB,416
+@CISCompetitions,IEEE CIS Competition Subcommittee,76
+@soheeIeee,SOHEE,
+@Ieee5573,OzuEggz,61
+@IEEECSKSA,IEEE CS Saudi Arabia,318
+@r8wie,IEEE Region 8 Women in Engineering,179
+@IEEEInfra,IEEE Infrastructure Conference,225
+@IEEEKeralaYP,IEEE Kerala YP,418
+@ehpwas,IEEE eHPWAS Workshop,482
+@IEEESLSYWC,IEEE SL SYW Congress,294
+@PowerAfrica22,IEEE Power Africa Conference 2022,494
+@IEEER4,IEEE Region 4,147
+@ieeepesday,IEEE PES Day,400
+@IEEEUKCAS,IEEE UKCAS,255
+@ieeecassociety,IEEE CAS Society,2132
+@IEEEorg,IEEE,340200
+@IEEESAS,IEEE Southern Alberta Section,118
+@SpaceComputing,IEEE Space Computing Conference,167
+@SKRamesh_IEEE,S K Ramesh,168
+@ieeewoi,IEEE West Of Ireland,268
+@ieeegem,IEEE Games Entertainment & Media conference,760
+@pcor,Peter Corcoran,623
+@ieee,IEEE,
+@ieeecu,IEEE Carleton,420
+@IEEECollabratec,IEEE Collabratec,305
+@Daphieee1,daph.ieee,
+@daphiee_dump,daphiee,
+@unoieee,UNO IEEE,91
+@UofNO,University of New Orleans,8932
+@hipcconf,IEEE HiPC 2023,223
+@MS_IEEE_GRSS,MS IEEE GRSS Student Chapter,91
+@ieeenigeria,IEEE Nigeria Section,449
+@IeeeJic,IEEE-JIC,216
+@roman2021ieee,IEEE RO-MAN 2021 International Conference,121
+@IEEEAUS,IEEE AUS,81
+@Val_or_ieee,Valerie♡,548
+@IEEE_IAU,IEEE IAU,172
+@IEEEBHI,IEEE BHI 2025,241
+@AUV2022SG,IEEE OES AUV2022 Symposium,239
+@IEEE_OES,IEEE OES,940
+@arlnus,Acoustic Research Laboratory,137
+@sauvcsg,sauvc,171
+@PowerAfrica2019,IEEE PES-IAS PowerAfrica 2019,261
+@ComSocLatAm,IEEE ComSoc Latin America,252
+@IEEE_UY,,
+@IEEEorg,,
+@EmpowerABillion,,
+@IEEEorg,,
+@ieeegcaiot,,
+@ieeenova,,
+@HostIeee,IEEE HOST Symposium,173
+@ieeect,,
+@IEEE_ICNP,,
+@IEEEEduWeek,,
+@lyn_ieee,;,537
+@ieee_PesWsa,,
+@ieee_wie_pt,Women in Engineering,114
+@ICDCS2025,IEEE ICDCS 2025,99
+@ieeetrcs,,
+@ieeeclayp,,
+@jack_ieee,,
+@ipsn20,,
+@pan_shijia,Shijia Pan,77
+@JustMeFrom66,Steve Walker IEEE,183
+@ieeeMMSP,IEEE MMSP TC,185
+@icceberlin,,
+@ieeecesoc,,
+@ifa_berlin,,
+@pcor,,
+@ieee,,
+@csaz462arcflash,"Terry Becker, P.Eng., CESCP, IEEE Senior Member",364
+@ieeeseecs,,
+@qUEEn_ieee,Lili~,637
+@Uee_pics,,
+@IEEEICECS,IEEE ICECS 2022,297
+@ieeecassociety,,
+@Drexel_IEEE,,
+@ieeeicir,,
+@IEEE_PHO36,,
+@ipsn20,,
+@pan_shijia,,
+@JustMeFrom66,Steve Walker IEEE,183
+@ieeeMMSP,IEEE MMSP TC,185
+@icceberlin,IEEE_icceBerlin,128
+@ieeecesoc,IEEE Consumer Technology Society,814
+@ifa_berlin,IFA Berlin,
+@pcor,Peter Corcoran,623
+@ieee,IEEE,
+@csaz462arcflash,"Terry Becker, P.Eng., CESCP, IEEE Senior Member",364
+@ieeeseecs,IEEE SEECS NUST,808
+@qUEEn_ieee,Lili~,637
+@Uee_pics,유이 Uee pics,
+@IEEEICECS,IEEE ICECS 2022,297
+@ieeecassociety,IEEE CAS Society,2132
+@Drexel_IEEE,Drexel IEEE,94
+@ieeeicir,IEEE ICIR,159
+@IEEE_PHO36,IEEE UK and Ireland Photonics Chapter,522
+@cetinkayakoc,Çetin Kaya Koç,65800
+@ASRU2023,IEEE ASRU 2023,66
+@IEEEDataPort,IEEE DataPort,131
+@IEEEWIECanada,IEEE WIE Canada,102
+@UmichIEEE,UMich IEEE-ACM,56
+@IEEEKKU,IEEE KKU,2135
+@kkueduksa,جامعة الملك خالد,284400
+@ieeevitvellore,IEEE VIT Vellore,453
+@IEEE_OJCSYS,IEEE Open Journal of Control Systems,348
+@ICVES2019,IEEE ICVES 2019,57
+@IEEECSSYP,IEEE Computer Society SYP,165
+@UNIXTCPIP,Renato,188
+@SFBAC_PELS,SF Bay Area Chapter of IEEE PELS,235
+@IEEER10SAC,IEEE R10 SAC,387
+@IEEELCN,IEEE LCN Conference,157
+@UNTIEEE_CS,UNT IEEE CS,155
+@IEEEProComm,IEEE ProComm,173
+@DrSadiquePhD,Dr- Sadique Ahmad IEEE Member,586
+@IEEE_MUST,IEEE MUST,163
+@UCD_PES,UCD IEEE PES,131
+@temple_ieee,Temple Univ. IEEE,130
+@mondayIeee,rest,
+@IeeeToe,IEEE_ToE,100
+@RowanIEEE,Rowan IEEE,64
+@mbmctc,IEEE COMSOC'S MBMC-TC,124
+@ieeeCQR,IEEE CQR Workshop,87
+@ieeespsdc,IEEE Signal Processing Society Delhi Chapter,118
+@ieeeyesist12,IEEE YESIST12,365
+@ieeer8chapters,IEEE Region 8 Chapters,62
+@ieeeitpro,IEEE IT Professional,260
+@ieeecomputerpa,IEEE Computer Society Panamá,144
+@ieee_scv_yp,IEEE Santa Clara Valley Young Professionals,25
+@ieeeMU,Marquette University IEEE,58
+@ieeesustaintech,IEEE SustainTech Leadership Forum,34
+@IEEE_BU,IEEE BU,104
+@bennettuniv,,
+@IEEEPES_Kenya,,
+@ieeecsks,,
+@ieee_ojap,,
+@IEEECanada,,
+@IEEE_JKUAT,,
+@IEEETorontoMetU,,
+@TorontoMet,,
+@ieeeigdtuw,,
+@IEEEMadras,,
+@UH_IEEE_COT,,
+@OzarkIEEE,,
+@rysphrdt_ieee,,
+@CsisIeee,,
+@EMBSPT,,
+@_ieeesiesgst,,
+@ACM_IEEE_SEC,,
+@ieeeasu,,
+@ieee_tc_telerob,,
+@IEEEatBSU,,
+@ieeeYPalabama,,
+@CJohnsonIEEE,,
+@ieeemapuasb,,
+@EMBSPT,,
+@_ieeesiesgst,,
+@ACM_IEEE_SEC,,
+@ieeeasu,,
+@ieee_tc_telerob,,
+@IEEEatBSU,,
+@ieeeYPalabama,,
+@CJohnsonIEEE,,
+@ieeemapuasb,,
+@IEEECDC2020,,
+@PVIEEE,,
+@PVIEEE,,
+@Mo_Will56,,
+@IEEE_GITAM,"IEEE Student Branch,GITAM",195
+@ieeepnec,IEEE PNEC,122
+@IEEEBigMM,IEEE BigMM 2020,154
+@IEEE_Ent_Summit,IEEE Entrepreneurship Summit - Africa Edition,367
+@ACM_IEEE_ANCS,ACM/IEEE ANCS,88
+@ieeeuofk,IEEE UOFK SB,723
+@ieeessci,IEEE SSCI 2025,54
+@IEEE_VSSUT_SB,IEEE VSSUT SB,150
+@afrhobee,Bess_ieee,878
+@sri_ieee,Sri,58
+@IeeeVtsChicago,IEEE VTS Chicago,81
+@IEEEGameSIG,IEEE GameSIG,72
+@ieeeregion9,IEEE Region 9,161
+@hidekikawahara,Hideki Kawahara: WAH (Work@Home)10x,2419
+@IEEE_IC,IEEE India Council,367
+@ProfMatsuoka,Satoshi Matsuoka,25900
+@chittaphonIeee,Bye,258
+@r10yp,IEEE Region 10 YP,203
+@PesMmu,IEEE PES MMU-K,740
+@IEEEUETLahore,IEEE UET lahore,536
+@CevherLIONS,Volkan Cevher,3425
+@liu_mingyu,Ming-Yu Liu,9014
+@ieeetemsblock,IEEE Tems Blockchain,113
+@franceg_xx,ค ɭ ɭ ieee*,
+@ieeeypsl,IEEE Young Professionals Sri Lanka,106
+@ieeeiiitdelhi,IEEE IIIT-Delhi Student Branch,88
+@IeeeMit,MIT IEEE/ACM Student Org,20
+@MIT,Massachusetts Institute of Technology (MIT),1300000
+@IEEEorg,IEEE,340200
+@TheOfficialACM,Association for Computing Machinery,72600
+@ieeenlca,IEEE Newfoundland and Labrador,84
+@IEEEorg,IEEE,340200
+@ieee_sudan,IEEE Sudan,886
+@IEEEIndHUBSV,IEEE IndustryHUB Silicon Valley,32
+@tenIeee_1001,1O.,508
+@IeeeIsae,ISAE-SUPAERO IEEE Student Branch,51
+@ieeecsgcet,IEEE Computer Society - GCET,80
+@ComputerSociety,IEEE Computer Society,66600
+@abv_iiitm_ieee,ABV-IIITM IEEE Student Branch,51
+@IEEE_AUB,IEEE AUB,111
+@IEEE_EDUCON,IEEE EDUCON,159
+@IEEETUK,IEEE Technical University of Kenya,455
+@meharris,Mark Harris,5781
+@ieeeOttawaSec,IEEE Ottawa Section,130
+@IEEE_PES_UKRI,IEEE PES UKRI,124
+@r3ieee,,
+@yalefox,,
+@dinakholkar,,
+@ieee_mlsp,,
+@IEEECCNY,,
+@ieeecsmuj,,
+@jn_ieee,,
+@WCNC_IEEE,,
+@IEEEVicWIE,,
+@Didi_ieee,,
+@IeeeNsut,,
+@IeeeSweden,,
+@ieee_smc,,
+@Ben68638515,,
+@TechJohnEdwards,,
+@IEEE_EAIS,,
+@PES_UJSC,,
+@ieeesliit,,
+@jenocIeee,,
+@NCTsmtown_dream,,
+@o_arnav,,
+@ieee_indin,,
+@IEEEBlockchain,,
+@ieeeghtc,,
+@MischaDohler,,
+@Ericsson,,
+@Ofcom,,
+@KingsCollegeLon,,
+@roman19ieee,,
+@jjenoIeee,,
+@icdl2025,,
+@ieee_uki_cyber,,
+@IEEE_KAU,,
+@IEEENAPConf,,
+@imanasshoIeee,,
+@IEEE_Montreal,,
+@Montreal,Montréal,194300
+@IEEEorg,,
+@IIfetc,IEEE-IFETC,135
+@ramgopal_rao,"V. Ramgopal Rao, Ph.D.",32200
+@MuchmoreIT,Heath Muchmore,312
+@IEEEINSL,IEEE Innovation Nation Sri Lanka,147
+@IEEE_ANTS,IEEE ANTS,40
+@ComSoc,IEEE ComSoc,37200
+@IIT,IIT,
+@IEEE_CUSB,IEEE Curtin Society,62
+@ieeecsvit,IEEE Computer Society - VIT,198
+@SmartGridCyber,IEEE Smart Grid Cybersecurity Workshop,125
+@BobMcGwier_N4HY,Science Bob McGwier,20100
+@ieeeicicle,IEEE ICICLE,457
+@InstituteIEEE,The Institute,992
+@IEEEOman,IEEE Oman,1326
+@IEEE__TU,IEEE TU,623
+@ZabihullahAtal,Atal,39800
+@Blockchain_IEEE,IEEE Blockchain Technical Community,59
+@ieeermc,IEEE Returning Mothers Conference 2025,60
+@ValpoIEEE,Valparaiso IEEE,63
+@CRFID_SA,IEEE CRFID Chapter in Saudi Arabia,42
+@_mous_ieee,Mousiee kitsune | Pre-debut,528
+@IEEEPESGridEdge,IEEE PES Grid Edge Conference and Expo,68
+@IEEE_WCNEE,IEEE WCNEE,93
+@IEEE_ICHI2020,IEEE ICHI 2020,73
+@kayIeee283892,im really pretty,32
+@IEEE_ICMTS,IEEE ICMTS,70
+@IEEEorg,IEEE,340200
+@IEEEEDS,IEEE Electron Devices Society,1932
+@Peter_IEEE,Peter Lin,104
+@icecs2023,IEEE ICECS 2023,6
+@aditsbieee,ADIT SB IEEE,173
+@PES_GSC,2020 IEEE PES Global Student Congress,205
+@IEEEEmbsKU,IEEE EMBS Kenyatta University,270
+@wjscheirer,Walter Scheirer,2612
+@NotreDame,University of Notre Dame,182500
+@ComputerSociety,IEEE Computer Society,66600
+@lithp,David Salamon,229
+@ieee_asru,IEEE ASRU,51
+@CVPR,#CVPR2026,50400
+@CSProfKGD,Kosta Derpanis (sabbatical in Munich),74600
+@IeeePesGtdIst,2023 IEEE PES GTD Istanbul,58
+@IEEESensorsES,IEEE Sensors Council & IEEE Systems Council Spain,82
+@IEEE_OSU,IEEE OSU,80
+@Twix_ieee,Twix • IA,254
+@bgyo_ph,BGYO_PH,134000
+@bgyo_nate,Nate Porcalla,
+@ieeepeswip_UKI,IEEE PES WiP UK and Ireland,53
+@802dot1,IEEE LAN Cleef,59
+@IEEEWIEMTL,IEEE WIE Montreal,45
+@IEEE_Montreal,IEEE Montréal,80
+@MetroInd40iot,IEEE MetroInd4.0 & IoT,86
+@IEEESheffieldSB,IEEE Sheffield SB,72
+@2022ALIAS,"IEEE ALIAS 2022, Online, June 6, 2022",14
+@2022Mdm,"IEEE MDM 2022, Paphos, Cyprus, June 6-9, 2022",24
+@e11ieee,Ellie⊹༝̩̩̥͙ ༓༝̩̩̥͙,133
+@ieee_boston,IEEE Boston Section,77
+@heachanIeee,aley .,
+@IEEE_TA,IEEE Tech Activities,30100
+@prithivida,Prithivi Da,1089
+@firojalam04,,
+@wangly0229,,
+@AlibabaGroup,,
+@DCU,,
+@TencentGlobal,,
+@ieee_iettn,,
+@ieee_ies,,
+@ieeesrmist,,
+@SRM_Univ,SRM Institute of Science and Technology,11800
+@ieee_tiv,,
+@phiemarie_,,
+@chummi_ieee,,
+@cbms_conference,,
+@ieeegc20,,
+@IEEEMEC,IEEE SB | MEC,53
+@Ieeemapcon,,
+@ieeeichi,,
+@ieeewie_ncu,,
+@IEEEYPVAN,IEEE Vancouver Young Professionals,42
+@sweet_ieee,,
+@IeeeWhispers,,
+@IeeeNjit,,
+@mr_Ieee,,
+@IEEERiphahFC,,
+@IEEE_Moi,,
+@IEEEAlexSB,,
+@karenbartleson,,
+@IEEE,,
+@DrMarcPerron,Marc Perron,1172
+@i_tcas,,
+@ds4cs,IEEE DS4CS @ CSR,20
+@IEEE_EMA_PES_YP,IEEE EMEA PES Young Professionals,62
+@IEEEComSoc,,
+@ieee_wie_vit,,
+@ieee_cs_chicago,IEEE Computer Society Chicago,51
+@IEEEethics,,
+@APS24_Florence,IEEE APS/URSI 2024 Florence (IT),31
+@nuriaoliver,nuriaoliver,16300
+@MIT,,
+@MediaLab,,
+@IEEEMqWIE,IEEE WIE at MQ,56
+@ieeevtsocs,IEEE.VTS.OCS,29
+@DQforAll,DQforAll,3947
+@vmin_ieee,yoon⁷ 아포방포 (inactive),217
+@ieeecibcb2024,IEEE CIBCB 2024,71
+@raketstar2,Raket,784
+@psuieee,PSU IEEE,97
+@toouufii,Toufi Saliba,2690
+@ChangyongCao,Changyong (Chase) CAO,1501
+@CWRU_MAE,CWRU Mechanical and Aerospace Engineering,165
+@CaseEngineer,CWRU Engineering,2162
+@CWRU,Case Western Reserve,
+@IeeePower,IEEE JKUAT Power & Energy Society,166
+@Prof_DavidBader,David Bader,6128
+@NJIT,NJIT,21600
+@adapter,Adapter,281
+@IeeeDeKUT,DeKUT IEEE SB,133
+@ieeeuvce,IEEE UVCE,225
+@dadbodsociety,x DBS x,40900
+@IEEEUH,IEEE UH,82
+@IEEENANO_Conf,IEEE NANO 2025,97
+@IEEEAshoka,IEEE Ashoka,87
+@IEEEorg,IEEE,340200
+@IeeeServices,IEEE SERVICES Congress,75
+@IEEEGTBIT,IEEE GTBIT,74
+@magg_ieee_,Maggie Martinez,231
+@IEEEEBSCOIndia,IEEE EBSCO India,49
+@lax_ieee,Sòrò Sókè,142
+@IEEECCAC,4th IEEE CCAC,66
+@IEEEInPhil,IEEE India Philanthropy,40
+@ieeesbiiti,IEEE Student Branch IIT Indore (Official),30
+@Columbia_ieee,IEEE EMBS COLUMBIA CHAPTER,26
+@ieeelums,IEEE LUMS,137
+@mjmartinez,Michael Martinez,4610
+@Delpscholar,,
+@RelxHq,RELX,
+@ReedExhibitions,,
+@ElsevierConnect,Elsevier,117500
+@LexisNexis,LexisNexis Legal & Professional,57700
+@Law360,Law360,57000
+@CNN,CNN,61100000
+@TribPub,Tribune Publishing Company,
+@IEEE,IEEE,
+@WaPo,The Washington Post,
+@ChaimBaskin,Chaim Baskin,654
+@manansuri2002,Dr. Manan Suri,933
+@iitdelhi,IIT Delhi,156200
+@cyran_tech,CYRAN AI Solutions,180
+@Cornell,Cornell University,403100
+@Cea_Leti,CEA-Leti,
+@NXP,NXP,59900
+@GrenobleINP,,
+@ieeegreentech,IEEE GreenTech,360
+@IEEE_SilverOak,Silver Oak University IEEE SB,135
+@SilverOakUni,Silver Oak University,804
+@IEEEAPMag,IEEE Antennas and Propagation Magazine,136
+@wie_ieee_must,IEEE WIE MUST,85
+@ieee_unilag,IEEE Unilag,222
+@ICDCS_2020,,
+@ComputerSociety,,
+@ICCVConference,,
+@natanielruizg,,
+@anfurnari,,
+@YVinker,,
+@CSProfKGD,Kosta Derpanis (sabbatical in Munich),74600
+@ieee_cifer_info,,
+@ieee_umd,,
+@IeeeIn,,
+@AUKIEEESB,,
+@AUKTweets,AUK,
+@el_se3dy_,,
+@DCU_IEEE_SB,,
+@MLeee_ieee,,
+@grimIeee,,
+@SafeThings2024,IEEE/ACM SafeThings 2024,26
+@isvx_uj,,
+@sandtieee,,
+@IEEEUTHLamiaSB,IEEE SB UTH (Lamia),42
+@IEEE_WIE_SF,,
+@johnchavens,,
+@real_asli,,
+@Meta,Meta,9900000
+@uwcse,,
+@MSFTResearch,,
+@UCBerkeley,,
+@UofT,University of Toronto,127500
+@mich_ieee_,,
+@IEEE_EMC_YP,IEEE EMC Young Professionals,90
+@ieeeBISP,,
+@ieeeuottawa,IEEE uOttawa,42
+@IEEEKenyaComSoc,,
+@ieeemsit,,
+@alfaisalieee,,
+@IeeeAdgitm,IEEE ADGITM,90
+@BJSmithIEEE,,
+@ieeemq,MQ IEEE SB,25
+@atc_atg,,
+@I6ieee,,
+@Blyth_ieee,,
+@wacv_official,WACV,5726
+@2023Alias,"IEEE ALIAS 2023, Singapore, July 3, 2023",7
+@ISCAConfOrg,ISCA,3338
+@ieeewie_ku,IEEE WIE Kenyatta University,121
+@KuPhotonics,IEEE KU Photonics Society,122
+@BitPlayerMovie,Claude Shannon: The Bit Player Movie,808
+@TaylorIEEE,Kevin Taylor,291
+@gisseIIeee,sel,
+@ieeeasusb,IEEE ASU SB,166
+@uhclieee,IEEE at UHCL,25
+@turtIeee,lul,
+@DeanetSrl,Deanet Srl - IEEE ASTM SAE ACM Italy,65
+@IEEENCState,NC State Univ. IEEE Student Branch,9
+@ieeepes_sb_nitc,IEEE PES SBC NITC,75
+@ieeevic,IEEE Victorian Section,19
+@pascalefung,Pascale Fung,3186
+@asasiraqueen,Asasira Queen Pinklen #PyConUganda2025#WCUS#IEEE,60
+@PolarBearby,Ricardo Baeza-Yates,16000
+@hotchipsorg,Hot Chips,4749
+@BlakePlock,Shelly Blake-Plock,15500
+@yetanalytics,Yet Analytics,
+@ICCV_2021,ICCV2021,5921
+@ieee_comsats,IEEE COMSATS Islamabad,125
+@stevenhoi,Steven Hoi,3785
+@capital_climate,Capital Climate,2289
+@JianfengGao0217,Jianfeng Gao,1225
+@KayFButterfield,KayFirth-Butterfield,8404
+@wef,World Economic Forum,4300000
+@RespRobotics,Responsible Robotics,4446
+@leverhulmeCFI,Future Intelligence,
+@IEEEhistory,IEEE History Center,3106
+@Jul_ieee,jules,615
+@IEEE_PSUT,IEEE PSUT,449
+@lijiali_vision,Jia Li,6393
+@IEEE_Effat,IEEE Student Branch,214
+@IEEEManSB,IEEE ManSB,1042
+@sus_ieee,s,
+@K8ieee_,Katee,1170
+@IEEEMUSTSB,IEEE MUSTSB,273
+@amazingnicoIeee,nicole,2119
+@AnjaKasp,AnjaK,2109
+@IEEE,IEEE,
+@CarnegieCouncil,Carnegie Council,
+@dejanm,"Dejan Milojicic, HPE Fellow and VP",730
+@IEEEIndonesia,IEEE Indonesia,1052
+@CS_Conferences,IEEE CS Conferences,4441
+@ieeebigdata,IEEE Big Data,2626
+@RavinderSDahiya,Ravinder S. Dahiya,893
+@Northeastern,Northeastern University,54000
+@Grp_BEST,Bendable Electronics & Sustainable Technologies Gp,534
+@ieeespain,IEEE Spain,1784
+@SamuelKMoore,Samuel K. Moore,554
+@erkan_meka,Erkan Kaplanoglu,813
+@UTChattanooga,The University of Tennessee at Chattanooga,26600
+@IEEE,IEEE,
+@cass_ieee,jon bon joni mitchell,127
+@IEEEPubSafety,IEEE Public Safety Technology Initiative,196
+@IEEESDN,IEEE SDN,1454
+@Jazzi_ieee,KƦλL,
+@NicoIeee,,
+@melon_ieee,,
+@ieeecolombia,IEEE Colombia,4052
+@IEEEsbUPV,,
+@ieeeksu1,,
+@_ksu,,
+@sk8ieee,,
+@IEEEVirtual,,
+@pabloryr,Pablo Rodriguez -,3610
+@Google,,
+@Theteamatx,,
+@TeamAtAlpha,,
+@EPFL,,
+@IEEE_EdSoc,,
+@rosahserrano,Rosa Serrano,846
+@OfficialUoM,The University of Manchester,102200
+@ieeepeswip_UKRI,,
+@IEEE_PES_UKRI,,
+@gtieee,,
+@ieeepervasive,,
+@digi_ad,,
+@TeklaPerry,Tekla Perry,2619
+@IEEENetPolicy,,
+@IEEESB_UCSC,,
+@swelby,,
+@WaytGibbs,Wayt Gibbs,586
+@icdeconf,IEEE ICDE Conference,1056
+@IEEEgyptSection,IEEE Egypt Section,1467
+@18gd_ieee,erika,2501
+@Noon_ieee,,
+@KFUIEEE,,
+@KFUniversity,جامعة الملك فيصل,323700
+@angg__ieee,,
+@IEEE_IMAMU,IEEE IMAMU,1653
+@CCIS_IMAMU,كلية علوم الحاسب والمعلومات,19000
+@IEEE_SLTC,,
+@jodam,,
+@ieeewsa,,
+@gtuieee,,
+@WieUtn,IEEE WIE UTN BA,868
+@frbautn,UTN Buenos Aires,19200
+@IEEE_VR2011,IEEE Virtual Reality,567
+@ieeedeu,,
+@tomzimmermann,Thomas Zimmermann,3665
+@IEEEYP_Spain,IEEE Young Professionals Spain,869
+@HelenMulvana,Helen Mulvana,541
+@UofGSciEng,"College of Science & Engineering, UofG",3145
+@IEEE_eGov,IEEE eGovernment,573
+@pcor,Peter Corcoran,623
+@ABoltasseva,Alexandra Boltasseva,3893
+@PurdueECE,PurdueECE,2326
+@PurdueQuantum,Purdue Quantum Science and Engineering Institute,1242
+@QuantumSciCtr,Quantum Science Center,2931
+@AcadofInventors,National Academy of Inventors,5853
+@DTUtweet,DTU,17500
+@MIPT_eng,MIPT — Moscow Institute of Physics and Technology,
+@CSU_IEEE,CSU IEEE,23
+@sterlingkronerc,,
+@IEEE_PSAU,PSAU Student Branch,1372
+@psau_edu_sa,جامعة الأمير سطّام,142800
+@IEEE_PSAU,PSAU Student Branch,1372
+@itu_ieee,IEEE İTÜ Öğrenci Kolu,2830
+@securityprivacy,SecurityPrivacyMag,1788
+@ieeeiit,IEEE @ Illinois Tech,402
+@iros_2018,IROS2018 Madrid,1910
+@Sustainable_ICT,IEEE Sustainable ICT,476
+@IEEETMCSpain,Management en IEEE,300
+@IEEEPassau,IEEE SB Passau,636
+@IEEE_STUDENTS,IEEE Students,482
+@neilsavagewrite,Neil Savage,
+@IEEE_UNFV,RE IEEE-UNFV,1103
+@joulespatel,"Chandrakant D. Patel, PE",1207
+@IEEENorthJersey,IEEE North Jersey,549
+@javherriv,Javier Hernandez,761
+@ieeemultimedia,IEEE MultiMedia,337
+@jeanna_matthews,Jeanna Matthews also @jeannamatthews@newsie.social,613
+@IEEESmartCityES,IEEE Smart Cities ES,603
+@PengDai_ca,P.Dai,371
+@Toronto,T O R O N T O,209400
+@mdbeebe,Marc Beebe,915
+@_nata1ieee,Natalie Thompson,278
+@ieeetrsbembs,IEEE TRS EMBS,525
+@MicroArchConf,MICRO Symposium,2684
+@ieeepes,UT IEEE PES,434
+@IEEE_SBUGM,IEEE SB UGM,210
+@UGMYogyakarta,UGM,1000000
+@HRI_Conference,The HRI Conference,1682
+@IEEEsbUV,IEEE StudentBranchUV,681
+@DocSparse,Tim Davis,1822
+@ieeeturkeywie,IEEE Turkey WIE,331
+@IEEEsbUMA,IEEE Málaga SB,590
+@IEEE3DUI,IEEE 3DUI,371
+@IEEEYP,Young Professionals,2880
+@Wiley_IEEEPress,Wiley-IEEE Press,1272
+@estratic,Carlos E. Jimenez-Gomez,1189
+@IEEEUnicauca,RE IEEE Unicauca,838
+@joshuagay,Joshua Gay,1351
+"@joshuagay@metasocial.com Open source at IEEE | Tweets my own | ex FSF, CK-12 | Dad of 4 | Boulder, CO",,
+@IEEEegesb,IEEE EGE SB,515
+@ieeeegesb,IEEE EGE SB,
+@DrAdwitiya,Dr Adwitiya Sinha,1461
+@nvchawla,,
+@NotreDame,,
+@Aunalytics,,
+@wangxinfelix,,
+@IEEESBUMH,,
+@HacettepeIEEE,,
+@petergjones,Peter Jones,3015
+@aihuborg,AIhub,1625
+@IEEE_CSS_UD,,
+@sb_itesm_mty,,
+@6e726d,,
+@MTHajiaghayi,,
+@IEEEPanama,IEEE Sección Panama,855
+@OCEANS_MTSIEEE,,
+@tatbul,Nesime Tatbul,1123
+@Intel,,
+@MIT_CSAIL,,
+@ieeehaptics,ieeehaptics,653
+@haptics2018,,
+@WIEsaudi,,
+@lionel_c_briand,,
+@sduieee,,
+@uclaieee,UCLA IEEE,288
+@IEEEtv,,
+@ieeekutr,IEEE Koç University Student Branch,1129
+@IEEEGOLDRush,,
+@lawrencebehr,,
+@IEEESBUniValle,,
+@hayyy1ieee,Haylie,251
+@AgRoboticsTC,IEEE Ag. Robotics & Automation Tech. Committee,579
+@IEEEI2MTC,IEEE I2MTC 2015,478
+@REIEEEUSB,,
+@KhaledMokhtar,,
+@drwuz,,
+@IEEEuVigo,IEEE uVigo,482
+@satish_babu,,
+@IEEE_HST,,
+@ieee_r8pa,IEEE R8 PA,382
+@rdillon73,,
+@JCU_Singapore,,
+@BilkentIEEE,,
+@visweek,IEEE VisWeek,785
+@PMoutis,Panayiotis (Panos) Moutis,938
+@CityCollegeNY,City College of NY,13200
+@ClimateChangeAI,Climate Change AI,13000
+@IEEEUSA,IEEE-USA,21800
+@sciencedirect,Elsevier | ScienceDirect,
+@CambridgeUP,Cambridge University Press,46200
+@TheIET,,
+@IEEE_PES,IEEE Power & Energy Society,
+@CarnegieMellon,Carnegie Mellon University,81000
+@UniofGreenwich,Uni of Greenwich,31000
+@NTUA,National Technical University of Athens,
+@ky7ieee,Ky7ie.,1085
+@IEEESeccionMex,IEEE Sección México,1464
+@bilal027,Bilal Sheikh,717
+@tsbpk,The Social Bugs,262
+@prof_j_mitchell,John Mitchell,1375
+@Centre4EngEdu,UCL Centre for EngEd,861
+@ucleeenews,UCL EEE,2456
+@UCLEngineering,UCL Engineering,11100
+@EngProCouncil,,
+@IEEE_EdSoc,IEEE Education Soc.,1054
+@FrankTietze,Frank Tietze,615
+@yyzhou,YY Zhou-Whova,1162
+@kat_ieee,Katie,142
+@sakthibalu_twtz,Dr.Sakthi,17300
+@ieeeiuc,IEEE İÜC,907
+@IEEE_MSB,IEEE Menoufia SB,159
+@_an9ieee,Angie Contreras,
+@ASE_conf,ASE 2024,1886
+@thomascoughlin,Thomas Coughlin,2003
+@vlhcc,VL/HCC,580
+@heatherzheng,heather zheng,296
+@UchicagoCS,UChicagoCS,
+@diando70,Dr. Diana Andone,1183
+@NathanSWallace,"Nathan Wallace, PhD, PE",962
+@Ampirical,Ampirical,171
+@cybirical,,
+@grid_intel,GridIntel,58
+@ieee_pes_pscc,IEEE-PES PSCC,437
+@Latech,Louisiana Tech University,
+@PaulRosengren,Paul Rosengren,734
+@MTT_IMS,MTT_IMS,2737
+@ieeechile,IEEE Chile,1540
+@mitchgjli,Mitch Li,995
+@EE_Nickolas,CNickolas,1158
+@TCharlesClancy,Charles Clancy,
+@lkisselburgh,"Lorraine Kisselburgh, PhD",365
+@ACMpolicy,ACM Public Policy,
+@IEEE,IEEE,
+@theCAIDP,Center for AI and Digital Policy (CAIDP),1677
+@EPICprivacy,EPIC,24500
+@wieilc,IEEE Women in Engineering Int'l Leadership Conf.,2152
+@YiruHelenWang,Yi Ru (Helen) Wang,575
+@uwcse,Allen School,11300
+@uw_robotics,UW Robotics,300
+@ieee_ras_sac,IEEE RAS Student Activities Committee,87
+@nserc_crsng,,
+@UofT,University of Toronto,127500
+@mauroconti_,Mauro Conti,703
+@UniPadova,,
+@TUdelft,,
+@UW,,
+@salimazak,Salim Azak,1367
+@METU_ODTU,,
+@JpHironori,HironoriKasaharaJP,1051
+@IfeanyiOrajaka,,
+@GreenVillageEle,,
+@ObamaFoundation,,
+@PABL0VALERIO,,
+@djimeneth,Daniel A. Jiménez,673
+@gsu_ieee,,
+@MarikoBurgin,,
+@stevet49analog,,
+@cisemag,,
+@ComputerSociety,,
+@LorenaABarba,,
+@ilkayaltintas,,
+@helenhehuang8,,
+@JPHubaux,Hubaux,372
+@EPFL,,
+@C4DT,,
+@tuneinsight,,
+@icstconference,ICST,1546
+@AQAnsari1962,,
+@jmiu_official,,
+@gabosgab,,
+@altrishaw,,
+@computersandlaw,,
+@itechlaw_assn,,
+@WLinAI,Women Leading in AI,2005
+@IEEE_SA,,
+@Dan_Schiff,Daniel Schiff,713
+@purduepolsci,purduepolsci,2013
+@IEEE,IEEE,
+@GerardoBarbosa,Gerardo Barbosa,
+@2022Iros,IROS 2022,718
+@aravikiran,Ravikiran Annaswamy,728
+@HpcaArchConf,HPCA,1686
+@ieeebeykent,IEEE Beykent,855
+@TechRxiv_org,TechRxiv Preprint Server,32700
+@GonzaloVzquezO1,Gonzalo Vázquez Orbaiceta,712
+@GlobalAffairsUN,Global Affairs UNAV,1079
+@ieee_es,IEEE,47300
+@CIMSEC,Center for International Maritime Security,12800
+@CMS_Washington,Center for Maritime Strategy,1750
+@cepa,CEPA,66400
+@REjercitos,Revista Ejércitos,108100
+@modelsconf,MODELS Conference,1634
+@StanfordIEEE,Stanford IEEE,202
+@jneirap,José Neira,463
+@DrCBSchrader,Dr. Cheryl B. Schrader,1114
+@yutzuchiu,Yu-Tzu Chiu,342
+@RTC_Conf,RTC_Conf,1094
+@IEEE_ISEC,Integrated STEM Ed.,667
+@kadirhasieee,KHAS IEEE,581
+@IEEE_UCI,IEEE UCI,536
+@dmcorpaffair,Deepak Maheshwari,676
+@CSEP,Crystal,
+@IEEE,IEEE,
+@iitbhuglobal,IIT BHU Alumni,3551
+@KathyPretz,Kathy Pretz,506
+@jijopu,Jijo P Ulahannan,816
+@ben_bland,Ben Bland,1340
+@IEEE_UNR,IEEE at UNR,360
+@gaziieee,IEEE Gazi,869
+@IEEEESOGU,IEEE ESOGU,853
+@cig2018ieee,cig ieee 2018,142
+@ESEM_conf,ESEM Conference,2218
+@ieee_mhidalgo,Mar Hidalgo,731
+@ieeeist,IEEE-IST,709
+@BussoCarlos,Carlos Busso,614
+@IndabaxTunisia,IndabaX Tunisia,291
+@Mgeselowitz,Michael Geselowitz,159
+@MrColeslaw972,VM,173
+@Google,Google,31600000
+@IEEEUTSA,IEEE UTSA,578
+@Patterson_MS,Moira Patterson,282
+@jb03hf,Dr. Joseph A Brown,575
+@chelah_reez,Chelangat K.,1933
+@UT_Dallas,UT Dallas,29700
+@tech_gaa,Tech-Gaa Hub,181
+@Urbanolistica,Larissa Paredes Muse,660
+@ferdaofli,ferda ofli,298
+@GadgetMan4U,Alvin Chin,788
+@muneyb,Muneyb Minhazuddin,409
+@Ambarella,ber,
+@Intel,Intel,
+@VMware,VMware,315100
+@Avaya,Avaya,36800
+@ieeeqro,,
+@ieeeeru,,
+@pfsanchez,,
+@cristinacortes,,
+@ieeeroman,,
+@Bhaskarpal__,,
+@ActivateWind0ws,,
+@abbinayak3596,Abbinaya Kuzhanthaivel,868
+@HRI_2020,HRI_2020,416
+@ieeebaunsb,,
+@xrmxrm,,
+@SunSpecAlliance,,
+@LeeStogner,"Lee Stogner, PMP",919
+@PolymathToBe,,
+@ud_engineering,,
+@ECEIllinois,Illinois ECE,
+@GeorgiaTech_ece,,
+@ieeeIAS,,
+@sabyasachi_uni,,
+@dJdU,,
+@ieeeUT,,
+@HassanShehawy,Hassan Shehawy,710
+@suyashchopra1,,
+@ieeeytu,,
+@ieee_isscc,,
+@Fuzi_1,,
+@Bookeyy_Inc,,
+@RelinkNg,,
+@go_ride_ng,,
+@ICSAconf,,
+@secon2010,IEEE Secon 2010,261
+@ieeeespstudents,IEEE Spain Students,676
+@AcmSensys,ACM SenSys,545
+@CarraraSandro,sandro carrara,711
+@ComSocMeetings,IEEE ComSoc Meetings,279
+@tobiaslanglotz,Tobias Langlotz,339
+@WAMICON,WAMICON,899
+@IEEEUPRM,IEEE UPRM,492
+@mlnielsen,Mary Lynne Nielsen,355
+@ytuieeewie,YTÜ IEEE WIE,505
+@Hiro_Washi,Hironori Washizaki,1447
+@djfunky1,Djfunkynumberone™®,979
+@ieeesau,IEEE SAU,366
+@IntelectExpo,IEEE-IEEMA Intelect,144
+@TheBirdHouseTG,5,2330
+@jrenauardevol,Jose Renau,572
+@ktueec,IEEE KTU Student Branch,592
+@ieeetnku,IEEE TNKU,373
+@AMIonescu,Adrian Ionescu,390
+@EricTBrown,"Eric T. Brown, PhD",337
+@RobaAbbas,Roba Abbas,285
+@UOW,UOW,20800
+@ASU_SFIS,ASU School for the Future of Innovation in Society,2448
+@IEEESSIT,IEEE SSIT,1431
+@ieeebilgi,IEEE Bilgi,368
+@MarkVee10,"Mark A. Vasquez, CAE",
+@DJ_Gana,Harry Gana,656
+@MobileManip,Mobile Manipulation Technical Committee,256
+@ieeeras,IEEE RAS,11700
+@ieeeaps,IEEE APS,196
+@lan24hd,Anand Lakshmanan,2820
+@clifford_ouma,Clifford Ouma,1586
+@OpenTerms,Open Terms Newsletter,39
+@IEEE_Moi,IEEE Moi University Student Branch,234
+@gdsc_moi,Google Developer Student Clubs- Moi University,1190
+@YPSaudiArabia,IEEE Young Professionals | Saudi Arabia,803
+@IEEE_R9,IMCTVR9,741
+@AtabNazek,Nazek El-Atab,410
+@ASEconf2019,ASE Conference,921
+@JuanJo_0LIVER,𝙹𝚄𝙰𝙽𝙹𝙾 𝙾𝙻𝙸𝚅𝙴𝚁,775
+@ieeems,IEEE Morocco Section,474
+@IEEEUC,IEEE UCaldas SB,282
+@klgrise,Kathy Grise,312
+@dingwen_tao,Dingwen Tao,263
+@IULuddy,IU Luddy,4100
+@USTC,USTC,
+@UCR_CSE,UCR Computer Science and Engineering,1166
+@vis4good,Visualization For Social Good,396
+@Vis4Good,Visualization For Social Good,
+@ieeevis,IEEE VIS,9323
+@CGOconf,CGO,438
+@PESIEEEChile,IEEE PES Chile,300
+@ieeemanipal,IEEE Manipal SBranch,300
+@IEEE1394beta,ด้้้้็็็็็้้้้้็็็็็้้้้้้้้,1297
+@IEEEHacettepe,IEEE Hacettepe,367
+@computeruprm,IEEE CompSociety,243
+@yeditepe_ieee,Yeditepe IEEE,135
+@RigolTechUSA,Chris Armstrong,3130
+@RigolTechUSA,Chris Armstrong,3130
+@IEEECUC,Rama Est IEEE CUC,554
+@jcmonteroq,Juan Carlos Montero,501
+@RuairiCS,,
+@MTU_ie,,
+@LeroCentre,Lero,2749
+@IEEE,,
+@ManuelCardona_,,
+@ieeeAssociate,,
+@amarrnaik,,
+@TELUS_Digital,,
+@ieeewhc,,
+@IEEE_Mexico,,
+@ieeegranada,,
+@ieeegranada,,
+@ieeeclubhouse,,
+@replies,,
+@IEEESFVSection,,
+@pheonix1729,Kundan Kumar,488
+@ieee_sec_ecu,IEEE Sección Ecuador,708
+@ieeeufabc,,
+@fcdl94,,
+@FocoosAi,,
+@PoliTOnews,,
+@HKNPoliTo,,
+@rennyguida,R. Guida,172
+@ieee_ius,,
+@AnilMurty,,
+@anilkl,,
+@IEEETepra,IEEE TePRA,94
+@IEEECNSV,IEEE CNSV,203
+@IEEEUninorte,IEEE Uninorte,466
+@imispgh,Michael DeKort,612
+@ieeemef,IEEE MEF SB,303
+@ieeeunap,IEEE UNA Puno,223
+@IEEEsbUZ,IEEE SB Unizar,473
+@ieeesbuz,IEEE SB Unizar,
+@IEEEwieege,IEEE WIE EGE,135
+@maiwending,Dr. Wending Mai,2916
+@ieee_games_tc,IEEE Games TC,79
+@ieee_dumlupinar,IEEE Dumlupınar,119
+@RadOncPapers,@RadOncPapers,
+@radoncpapers,@RadOncPapers,1245
+@cd_fuller,,
+@cnom,IEEE Comsoc CNOM,142
+@IEEEUPCT,IEEE UPCT SB,460
+@ieeeud,IEEE U. Distrital,504
+@IEEEsbUS,IEEE Sevilla SB,464
+@IEEEBLP,IEEE BLP,1088
+@USAIEEE,USA IEEE,251
+@uartem,Artem Polyvyanyy,774
+@cis_unimelb,Computing & Information Systems UniMelb,1245
+@engunimelb,,
+@PSTGroupUniMelb,Process Science and Technology Research Group,48
+@IEEE_ULat,Rama Estudiantil IEEE ULATINA,167
+@itsc2018,IEEE ITSC 2018,183
+@IEEE_NtuaSb,IEEE NTUA SB,544
+@mr_ravin,Ravi Subramaniam,184
+@IEEE_GOLD_PT,IEEE GOLD Portugal,
+@IEEE_UIUC,IEEE @ UIUC,239
+@IiswcO,IISWC 2022,131
+@IEEE_PES_TandD,IEEE PES T&D LA,179
+@MetroAeroSpace,MetroAeroSpace,332
+@KC_IEEE_COMSOC,KC IEEE COMSOC,84
+@ieeemedellin,IEEE Medellín,242
+@ieeeiau,İAÜ IEEE,350
+@IEEEbostonYP,IEEE Boston YP,87
+@ieeeiv2020,IEEE IV 2020,102
+@IEEEUSMP,RE IEEE-USMP,280
+@ieeeai,IEEE AI,212
+@icdm2020,icdm2020,508
+@ieeemedipol,IEEE MEDİPOL SB,236
+@MEMS2026,IEEE MEMS Conferences,196
+@IEEE_PES_Boston,IEEE PES Boston,198
+@IEEE_SB_BCN,IEEE Stdt Branch BCN,199
+@ieeesausb,IEEE SAU,115
+@denverIEEE,denverIEEE,136
+@AGradvohl,Dr. André Leon Gradvohl,165
+@emeritbadges,IEEEemeritbadges.org,272
+@PaulSeanCanning,Paul Canning,322
+@IEEE_AL,IEEE Alabama Section,88
+@ieeecstrsac,IEEE Computer Society Türkiye SAC,345
+@IEEEUPC,IEEE UPC,198
+@IEEEPESUNAC,IEEE PES UNAC,240
+@Ieee_Chan,Lɐɐ chǝn,1391
+@sbieeeluz,SB IEEE LUZ,337
+@KT_IEEE,Kathryn Rapach,268
+@IEEEPESYP,IEEE PES-YP,174
+@ieeetcrts,,
+@IEEERegion6,,
+@wfcs2018,,
+@IEEEsbUIS,,
+@ieeebozok,,
+@EnergyCon2010,,
+@IEEEaud,,
+@ieeear,,
+@IEEEorg,,
+@IEEEsbUAH,IEEE - UAH,303
+@ieeeun,,
+@SasitharanBala1,,
+@WIEAUD,,
+@IEEEPESKAUSBC,IEEE PES KAU SBC,951
+@Wie_Kfu,IEEE WIE KFU,692
+@CoEngg_KFU,,
+@ieeemsku,IEEE MSKU,155
+@FatihIEEE,Fatih IEEE,294
+@ieeepestr,,
+@ieeevit,,
+@IEEE_HPEC,,
+@ieee_ieu,IEEE IEU,240
+@IEEEHealthCom,,
+@RamaSolesIEEE,,
+@TecNMHermosillo,TecNM Campus Hermosillo,3979
+@IEEEorg,IEEE,340200
+@OkanIEEE,IEEE Okan,103
+@IEEESSCol,,
+@RIE_IEEE,,
+@bluechizue,,
+@halic_ieee,,
+@ieeechihuahua,,
+@IEEE_EMU,,
+@IEEE_ZA,,
+@IEEEAASTSB,,
+@IEEESB_ITS,,
+@zen_ieee,프리,474
+@IEEEUMN,,
+@ieee_pes_wip,Women In Power,201
+@ieeetrsbwie,IEEE TRSB Women in Engineering,118
+@icves2018,,
+@ieeeucdavis,IEEE at UC Davis,105
+@IEEE5G,IEEE 5G,687
+@ieee_smcs,IEEE SMCS,187
+@ieeeodtuwie,IEEE METU WIE,175
+@KatBenIEEE,Kathryn Bennett,142
+@ieeecbu,IEEE CBU,49
+@ieee_sbua,IEEE SB UA,202
+@IEEEIM,IFIP/IEEE IM 2015,168
+@ClPaoloni,Claudio Paoloni,376
+@linakaram,Lina Karam,92
+@IEEE,IEEE,
+@ASU,Arizona State University,281500
+@uspto,USPTO,73100
+@IEEEIndia,IEEE India,169
+@ieee_itss_edu,IEEE ITSS Edu,54
+@IEEEPhotonConf,IEEE Photonics Confs,180
+@ieeesmcsociety,IEEE SMC Society,146
+@SYPCong_IEEESA,SYP Congress IEEE Saudi Arabia,108
+@m4ieee,van,
+@ieeeasetnoida,ASETN IEEE SBC,78
+@IEEEKTU,IEEE KTU,133
+@meliksah_ieee,Melikşah IEEE,88
+@IEEESb_Malta,IEEE Student Branch,119
+@uofmemphis_ieee,U Memphis IEEE,99
+@EsoguWie,IEEE ESOGU WIE,115
+@IEEECNSD,IEEE CNSD,
+@ieeeudp,Rama IEEE UDP,138
+@UomIEEE,IEEE-SB_UoM,74
+@IEEEusbbog,Rama IEEE usbbog,148
+@comsocutppe,IEEE ComSoc UTP Perú,234
+@IEEE_URJC_SB,IEEE URJC sb,167
+@pitt_ieee,Pitt IEEE,85
+@ieeeauthsb,IEEE AUTH Student Branch,291
+@computer_espol,IEEE-ESPOL Computer,268
+@IEEEsudan,IEEE Sudan,336
