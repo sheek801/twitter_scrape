@@ -225,5 +225,3 @@
 @IEEESB_ITS
 @IEEEUMN
 @icves2018
-@ieeepses
-@ieeeindiaops

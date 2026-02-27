@@ -54,6 +54,17 @@ def parse_args() -> argparse.Namespace:
         default=None,
         help="Only process the first N handles (for testing).",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-scrape all handles even if they already exist in the output CSV.",
+    )
+    parser.add_argument(
+        "--output",
+        type=str,
+        default=None,
+        help="Custom output CSV path (default: output/ieee_profiles.csv).",
+    )
     return parser.parse_args()
 
 
@@ -135,11 +146,13 @@ async def main() -> None:
 
     print(f"Loaded {len(handles)} handles from {handles_path}")
 
+    output_csv = Path(args.output) if args.output else config.CSV_FILE
+    output_csv.parent.mkdir(parents=True, exist_ok=True)
     config.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Check what's already done (resume support)
-    done = load_completed(config.CSV_FILE)
-    append_row = make_csv_appender(config.CSV_FILE)
+    # Check what's already done (resume support) — skip if --force
+    done = set() if args.force else load_completed(output_csv)
+    append_row = make_csv_appender(output_csv)
 
     print("Launching browser...")
     async with async_playwright() as pw:
@@ -162,8 +175,8 @@ async def main() -> None:
 
     # Rebuild full JSON from CSV (includes both old + new)
     all_profiles: list[dict] = []
-    if config.CSV_FILE.exists():
-        with open(config.CSV_FILE, encoding="utf-8") as f:
+    if output_csv.exists():
+        with open(output_csv, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 # Convert followers back to int
